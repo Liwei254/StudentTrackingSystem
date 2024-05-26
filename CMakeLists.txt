@@ -8,4 +8,4 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Add the executable
-add_executable(StudentTrackingSystem src/main.cpp)
+add_executable(StudentTrackingSystem src/TVSS.cpp)
