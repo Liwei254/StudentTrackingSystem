@@ -1,4 +1,4 @@
-# Student Tracking Information System for Vocational Schools in Turkey
+# Student Tracking Information System for Vocational Schools
 
 ## Abstract
 
