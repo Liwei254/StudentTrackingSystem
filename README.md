@@ -56,6 +56,5 @@ To use the Student Tracking Information System:
 ## Contributors
 
 - [Your Name](https://github.com/Liwei254)
-- [Another Contributor](https://github.com/anotherusername)
 
 
