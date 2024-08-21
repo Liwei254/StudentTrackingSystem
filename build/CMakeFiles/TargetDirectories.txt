@@ -1,3 +1,0 @@
-/workspaces/StudentTrackingSystem/build/CMakeFiles/rebuild_cache.dir
-/workspaces/StudentTrackingSystem/build/CMakeFiles/edit_cache.dir
-/workspaces/StudentTrackingSystem/build/CMakeFiles/StudentTrackingSystem.dir

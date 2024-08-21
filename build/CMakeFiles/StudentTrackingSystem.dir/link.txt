@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/StudentTrackingSystem.dir/src/TVSS.cpp.o  -o StudentTrackingSystem 
