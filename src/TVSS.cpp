@@ -81,9 +81,9 @@ void deleteStudent(Teacher& teacher) {
 int main() {
     // Initialize teacher information with sample data
     Teacher teachers[NUM_INSTITUTIONS] = {
-        {"Teacher1", {{"Student1", "111-111-1111", "student1@example.com", ""}, {"Student2", "222-222-2222", "student2@example.com", ""}}},
-        {"Teacher2", {{"Student3", "333-333-3333", "student3@example.com", ""}, {"Student4", "444-444-4444", "student4@example.com", ""}}},
-        {"Teacher3", {{"Student5", "555-555-5555", "student5@example.com", ""}, {"Student6", "666-666-6666", "student6@example.com", ""}}},
+        {"Teacher1", {{"Student1", "111-111-1111", "student1@agmail.com", ""}, {"Student2", "222-222-2222", "student2@gmail.com", ""}}},
+        {"Teacher2", {{"Student3", "333-333-3333", "student3@gmail.com", ""}, {"Student4", "444-444-4444", "student4@yahoo.com", ""}}},
+        {"Teacher3", {{"Student5", "555-555-5555", "student5@yahoo.com", ""}, {"Student6", "666-666-6666", "student6@yahoo.com", ""}}},
     };
 
     // Prompt for teacher's name or ID
